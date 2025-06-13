@@ -18,4 +18,5 @@ Find all the subsets from a set of numbers whose sum is zero.
 Constraint: Subset size must be 3 to 6 only
 
 Set={-12, -3, -6, 7, 2, -2, 6, 3, 9, -7, -5, -8, 1, 11, -9, -4}
+
 ![image](https://github.com/user-attachments/assets/4f40c5b9-6202-4c32-882f-2ca89952dde0)
